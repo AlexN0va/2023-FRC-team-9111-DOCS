@@ -1,1 +1,10 @@
 
+Today
+
+Design: We continued to work on a bill of materials for the robot mech. 
+
+Electrical: Today the plan was to tema up with programming and get the motors of the drive train working. We started to get some code running on the Spark Max motor controllers, but this is also where things started to go south. We couldnt get the spark motors to connect. We soon realized that it was die to firmware not being updates. We updated them by disconnecting them from power and connecting them with usb. We then downloaded the rev client for the spark motor controllers. Fromt here we change seom of the setting fort he spark max motor controllers inclusid the CAN id and the tye of motor we are using then finally the sensor type to brushed motor. We finished with getting two of these spark motors finishedand firmware udpates. More updates on the status light on tommorow s DOCS. 
+
+Programming: Continued to work on JAVA guide and trying to upload code to spark motors. 
+
+Business: We have a robotics team fundrasier upcoming. Dog walking fundraiser. Some students will ask households on K section if they want their dog walked for a donation to the robotics team. There is also another idea of getting involved with the RP library and teaching kids some robotics or coding because there dosnt seem to be much of those type of events at the RP library. 
