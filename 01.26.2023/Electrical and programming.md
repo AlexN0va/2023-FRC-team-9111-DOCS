@@ -25,7 +25,7 @@ Today the plan was to tema up with programming and get the motors of the drive t
 ## Programming: 
 
 Continued to work on JAVA guide and trying to upload code to spark motors. 
-
+ds
 ## Business: 
 
 We have a robotics team fundrasier upcoming. Dog walking fundraiser. Some students will ask households on K section if they want their dog walked for a donation to the robotics team. There is also another idea of getting involved with the RP library and teaching kids some robotics or coding because there dosnt seem to be much of those type of events at the RP library. 
