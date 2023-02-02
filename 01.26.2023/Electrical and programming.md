@@ -1,6 +1,13 @@
 
 # Thursday, January 26
 
+## What did we do today?
+nothing. This site was built using [GitHub Pages](https://pages.github.com/).
+
+# The largest heading
+## The second largest heading
+###### The smallest heading
+
 ## Design: 
 We continued to work on a bill of materials for the robot mech. 
 
