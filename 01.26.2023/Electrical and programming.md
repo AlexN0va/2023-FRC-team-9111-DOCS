@@ -9,11 +9,11 @@ We continued to work on a bill of materials for the robot mech.
 
 ## Electrical: 
 
-Today the plan was to tema up with programming and get the motors of the drive train working. We started to get some code running on the Spark Max motor controllers, but this is also where things started to go south. We couldnt get the spark motors to connect. We soon realized that it was die to firmware not being updates. We updated them by disconnecting them from power and connecting them with usb. We then downloaded the rev client for the spark motor controllers. Fromt here we change seom of the setting fort he spark max motor controllers inclusid the CAN id and the tye of motor we are using then finally the sensor type to brushed motor. We finished with getting two of these spark motors finishedand firmware udpates. More updates on the status light on tommorow s DOCS. 
-  -fefef
-  - fefefef
-  1. dwdwdw
-  2. 1w1w1w1
+Today the plan was to tema up with programming and get the motors of the drive train working. We started to get some code running on the Spark Max motor controllers, but this is also where things started to go south. We couldnt get the spark motors to connect. We soon realized that it was die to firmware not being updates. We updated them by disconnecting them from power and connecting them with usb. We then downloaded the rev client for the spark motor controllers. Fromt here we change seom of the setting fort he spark max motor controllers inclusid the CAN id and the tye of motor we are using then finally the sensor type to brushed motor. We finished with getting two of these spark motors finishedand firmware udpates. More updates on the status light on tommorow s DOCS.
+  - Motor controllers can be difficult to use
+  1. Update firmware
+  2. east firmware
+  3. 
 
 ## Programming: 
 
